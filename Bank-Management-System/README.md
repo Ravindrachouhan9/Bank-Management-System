@@ -86,10 +86,6 @@ Ensure you have Python installed on your system. You can download it from [pytho
 - Implements object-oriented programming (OOP) for better code management and scalability.
 - Each account has a unique account number.
 
-### Date/Time Functions
-
-- Utilizes date and time functions to keep track of transactions and account activities.
-
 ## Contributing
 
 We welcome contributions to enhance the features and improve the system. Feel free to fork the repository and create a pull request with your changes.
